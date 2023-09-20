@@ -1,0 +1,5 @@
+.env
+top_50/
+.streamlit/
+.DS_Store
+__pycache__
